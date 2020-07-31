@@ -1,16 +1,34 @@
-### Hi there 👋
+# Another Nerdy Open Source Fan :sunglasses::male_sign:
 
-<!--
-**pagalprogrammer/pagalprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Checkout my website : https://pagalprogrammer.dev 
 
-Here are some ideas to get you started:
+### Bucket List
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [x] High School
+- [x] Create first full fledged app :technologist:
+- [ ] Get Six-pack abs :no_mouth:
+- [x] Join GitHub
+  - [x] Learn Git
+  - [x] Jump into the open source jungle :checkered_flag:
+- [x] Graduation Degree :man_student:
+- [x] Be a Founder :sweat:
+  - [x] Lead Programming Clubs
+  - [x] A startup idea
+    - [x] Fail misearbly :pensive:
+      - [x] Start Fresh :face_with_head_bandage:
+  * Expand skillset :infinity:
+- [x] Sell skills as a Freelancer :moneybag::heavy_dollar_sign:
+- [ ] Master Degree
+- [x] Get Involved in Internships
+- [x] Do some Non-Profit work
+- [ ] Get a lucrative job
+- [ ] Earn a lot of money
+- [ ] Buy a jet
+- [ ] Roam around the world :basecamp:
+- [ ] Find Amazing secrets of Human Life :supervillain_man:
+- [ ] Guide/Teach others :speech_balloon::man_teacher:
+- [ ] Inspire People
+- [ ] :skull::skull:
+
+
+**My Favourite Editor --> :atom:**
