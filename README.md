@@ -22,6 +22,8 @@ Checkout my website : https://pagalprogrammer.dev
 - [x] Get Involved in Internships
 - [x] Do some Non-Profit work
 - [ ] Get a lucrative job
+
+--Long Term Thingies--
 - [ ] Earn a lot of money
 - [ ] Buy a jet
 - [ ] Roam around the world :basecamp:
