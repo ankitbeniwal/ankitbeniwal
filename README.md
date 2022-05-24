@@ -1,6 +1,6 @@
 # Another Nerdy Open Source Fan :sunglasses::male_sign:
 
-Checkout my website : https://pagalprogrammer.dev 
+<!-- Checkout my website : https://pagalprogrammer.dev -->
 
 ### Bucket List
 
