@@ -18,10 +18,10 @@ Checkout my website : https://pagalprogrammer.dev
       - [x] Start Fresh :face_with_head_bandage:
   * Expand skillset :infinity:
 - [x] Sell skills as a Freelancer :moneybag::heavy_dollar_sign:
-- [ ] Master Degree
+- [x] Master Degree
 - [x] Get Involved in Internships
 - [x] Do some Non-Profit work
-- [ ] Get a lucrative job
+- [x] Get a lucrative job
 
 --Long Term Thingies--
 - [ ] Earn a lot of money
