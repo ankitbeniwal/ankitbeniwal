@@ -27,9 +27,9 @@
 - [ ] Earn a lot of money
 - [ ] Buy a jet
 - [ ] Roam around the world :basecamp:
-- [ ] Find Amazing secrets of Human Life :supervillain_man:
-- [ ] Guide/Teach others :speech_balloon::man_teacher:
-- [ ] Inspire People
+- :infinity: Find Amazing secrets of Human Life :supervillain_man:
+- [x] Guide/Teach others :speech_balloon::man_teacher:
+- :infinity: Inspire People
 - [ ] :skull::skull:
 
 
